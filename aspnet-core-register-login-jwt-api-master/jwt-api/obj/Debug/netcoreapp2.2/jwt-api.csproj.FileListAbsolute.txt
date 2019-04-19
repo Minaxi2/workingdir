@@ -1,0 +1,14 @@
+D:\WebAPI\vs_code\JWT\jwt-api\bin\Debug\netcoreapp2.2\jwt-api.deps.json
+D:\WebAPI\vs_code\JWT\jwt-api\bin\Debug\netcoreapp2.2\jwt-api.runtimeconfig.json
+D:\WebAPI\vs_code\JWT\jwt-api\bin\Debug\netcoreapp2.2\jwt-api.runtimeconfig.dev.json
+D:\WebAPI\vs_code\JWT\jwt-api\bin\Debug\netcoreapp2.2\jwt-api.dll
+D:\WebAPI\vs_code\JWT\jwt-api\bin\Debug\netcoreapp2.2\jwt-api.pdb
+D:\WebAPI\vs_code\JWT\jwt-api\obj\Debug\netcoreapp2.2\jwt-api.csprojAssemblyReference.cache
+D:\WebAPI\vs_code\JWT\jwt-api\obj\Debug\netcoreapp2.2\jwt-api.csproj.CoreCompileInputs.cache
+D:\WebAPI\vs_code\JWT\jwt-api\obj\Debug\netcoreapp2.2\jwt-api.RazorAssemblyInfo.cache
+D:\WebAPI\vs_code\JWT\jwt-api\obj\Debug\netcoreapp2.2\jwt-api.RazorAssemblyInfo.cs
+D:\WebAPI\vs_code\JWT\jwt-api\obj\Debug\netcoreapp2.2\jwt-api.AssemblyInfoInputs.cache
+D:\WebAPI\vs_code\JWT\jwt-api\obj\Debug\netcoreapp2.2\jwt-api.AssemblyInfo.cs
+D:\WebAPI\vs_code\JWT\jwt-api\obj\Debug\netcoreapp2.2\jwt-api.RazorTargetAssemblyInfo.cache
+D:\WebAPI\vs_code\JWT\jwt-api\obj\Debug\netcoreapp2.2\jwt-api.dll
+D:\WebAPI\vs_code\JWT\jwt-api\obj\Debug\netcoreapp2.2\jwt-api.pdb
